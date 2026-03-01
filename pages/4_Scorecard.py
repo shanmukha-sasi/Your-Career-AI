@@ -97,6 +97,7 @@ if analyze_btn:
             Rewrite the following draft. Preserve the core meaning and intent, but elevate the professional quality, add structure, and make it highly engaging for tech recruiters.
             
             Draft to rewrite: {draft_post}
+            Note : It shouldbe very small and consise and simple english ( keep it under 50 to 100 words)
             """
             
             # Inject iterative memory
