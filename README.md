@@ -73,3 +73,6 @@ Run the Streamlit server to launch the platform.
 ```bash
 streamlit run app.py
 ```
+
+You can check out the live website here :
+https://career-aigit-hg9ltgxv4kakbggpexvyjt.streamlit.app
